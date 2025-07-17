@@ -9,7 +9,7 @@ const TestimonialsSection = () => {
       name: "Sarah Chen",
       role: "CEO, TechStart Solutions",
       result: "300% increase in customer satisfaction",
-      content: "Lumen AI transformed our customer service completely. The AI assistant handles 80% of our inquiries automatically, and our team can focus on strategic growth.",
+      content: "Shiftsquad AI transformed our customer service completely. The AI assistant handles 80% of our inquiries automatically, and our team can focus on strategic growth.",
       rating: 5
     },
     {

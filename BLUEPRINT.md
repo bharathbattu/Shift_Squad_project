@@ -1,10 +1,10 @@
-# Project Blueprint: Lumen AI Solutions
+# Project Blueprint: Shiftsquad AI Solutions
 
-This document provides a detailed blueprint of the Lumen AI Solutions website.
+This document provides a detailed blueprint of the Shiftsquad AI Solutions website.
 
 ## 1. Project Overview
 
-The project is a modern, single-page application (SPA) style marketing website for a company named "Lumen AI Solutions". The website showcases the company's services, features, success stories, and provides contact information. It is designed to be visually appealing and interactive, with scroll-based animations.
+The project is a modern, single-page application (SPA) style marketing website for a company named "Shiftsquad AI Solutions". The website showcases the company's services, features, success stories, and provides contact information. It is designed to be visually appealing and interactive, with scroll-based animations and a clean, professional aesthetic.
 
 ## 2. Tech Stack
 
@@ -63,25 +63,25 @@ This section will be expanded as I analyze more files.
 
 ### 5.1. `Index` Page (Landing Page)
 
-The main landing page is composed of several modular sections, providing a comprehensive overview of Lumen AI Solutions.
+The main landing page is composed of several modular sections, providing a comprehensive overview of Shiftsquad AI Solutions.
 
--   **`Navigation`**: The main navigation bar, likely containing links to other pages.
--   **`HeroSection`**: The top-of-the-fold section, designed to grab the user's attention.
--   **`FeaturedSection`**: Highlights key features or partners.
--   **`TestimonialsSection`**: Displays customer testimonials.
--   **`HowItWorksSection`**: Explains the company's process or product workflow.
--   **`FeaturesSection`**: A more detailed look at the product's features.
--   **`MissionSection`**: Describes the company's mission and values.
--   **`SuccessStoriesSection`**: Showcases case studies or success stories.
--   **`FAQSection`**: A frequently asked questions section.
--   **`Footer`**: The website footer, containing contact information, links, and copyright notices.
+-   **Navigation**: A persistent navigation bar at the top with links to different sections of the page (Home, About, Services, Contact) and a "Book a Consultation" call-to-action button.
+-   **HeroSection**: The top-of-the-fold section, designed to grab the user's attention.
+-   **FeaturedSection**: Highlights key features or partners.
+-   **TestimonialsSection**: Displays customer testimonials.
+-   **HowItWorksSection**: Explains the company's process or product workflow.
+-   **FeaturesSection**: A more detailed look at the product's features.
+-   **MissionSection**: Describes the company's mission and values.
+-   **SuccessStoriesSection**: Showcases case studies or success stories.
+-   **FAQSection**: A frequently asked questions section.
+-   **Footer**: Contains contact information, social media links, and navigation links.
 
 ### 5.2. `About` Page
 
 The "About Us" page tells the story of the company and introduces its values and team.
 
--   **`Navigation`**: Consistent navigation bar.
--   **Hero Section**: Introduces the "About Lumen AI Solutions" page.
+-   **Navigation** Consistent navigation bar.
+-   **Hero Section**: Introduces the "About Shiftsquad AI Solutions" page.
 -   **Story Section**: Narrates the company's origin story, founded by "Battu Bharath Kumar" to serve small and medium-sized businesses. Includes an "Impact" card with key metrics.
 -   **Values Section**: Highlights four core values: Customer First, Innovation, Accessibility, and Excellence.
 -   **CTA Section**: A call-to-action to encourage users to get started.
@@ -89,12 +89,10 @@ The "About Us" page tells the story of the company and introduces its values and
 
 ### 5.3. `Service` Page
 
-This page details the services offered by Lumen AI Solutions, divided into two main categories.
+This page details the services offered by Shiftsquad AI Solutions, divided into two main categories.
 
--   **`Navigation`**: Consistent navigation bar.
--   **Hero Section**: Introduces the "Our Services" page.
--   **Core Services Section**: Lists foundational services like "AI-Powered Customer Service Agents", "SEO", "Business Growth Development", and "Marketing".
--   **Premium Services Section**: Showcases advanced offerings such as "Detailed Market Research", "Business Strategy Development", and "Voice AI Agents".
+-   **AI-Powered Customer Support**: Describes the AI chatbot and customer service automation features.
+-   **Business Process Automation**: Explains how AI can streamline operations and improve efficiency.
 -   **CTA Section**: A call-to-action prompting users to make contact.
 -   **`Footer`**: Consistent footer.
 
