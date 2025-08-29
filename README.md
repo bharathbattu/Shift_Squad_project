@@ -99,6 +99,4 @@ To contribute:
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
